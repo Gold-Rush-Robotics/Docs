@@ -1,10 +1,10 @@
-.. GRR documentation master file, created by
-   sphinx-quickstart on Tue Jun  4 22:24:57 2024.
+.. Gold Rush Robotics documentation master file, created by
+   sphinx-quickstart on Tue Jun  4 22:27:40 2024.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to GRR's documentation!
-===============================
+Welcome to Gold Rush Robotics's documentation!
+==============================================
 
 .. toctree::
    :maxdepth: 2
