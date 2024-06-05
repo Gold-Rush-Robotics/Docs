@@ -1,8 +1,6 @@
 accessible-pygments==0.0.4
 alabaster==0.7.13
-angles==1.15.0
 Babel==2.15.0
-cppcheck==0.0.0
 domain-coordinator==0.10.0
 empy==3.3.4
 h11==0.14.0
