@@ -13,6 +13,5 @@ Welcome to Gold Rush Robotics's documentation!
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+* {ref}`genindex`
+* {ref}`search`
