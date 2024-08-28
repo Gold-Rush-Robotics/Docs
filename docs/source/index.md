@@ -22,6 +22,7 @@ usage/index
 ```{toctree}
 :maxdepth: 2
 
+common_jargon
 GRR_tools/index
 electrical/index
 hardware/index
